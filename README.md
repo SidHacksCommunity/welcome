@@ -15,7 +15,7 @@ Join our community discord server [here](https://discord.gg/gPyR9Q9n8M).
 Raise an issue to request an [invitation to the SidHacks Community GitHub Organization](https://github.com/SidHacksCommunity/support/issues/new?assignees=siddharthdayalwal&labels=invitation&template=invitation.yml&title=Looking+forward+to+get+involved+and+contribute+to+the+community+%F0%9F%8E%89).
 
 ## ✔️ Code Of Conduct
-Read the code of conduct carefully [here](https://github.com/SidHacksCommunity/support/blob/main/code-of-conduct.md).
+Read the code of conduct carefully [here](https://github.com/SidHacksCommunity/support/blob/main/CODE_OF_CONDUCT.md).
 
 ## 🌐 Community Website
 Checkout our website [here](https://siddharth-hacks.live/community).
